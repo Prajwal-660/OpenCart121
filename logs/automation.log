@@ -1,0 +1,6 @@
+22:03:47.992 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on my account link******
+22:03:48.839 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on Register link******
+22:03:48.842 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Providing customer details******
+22:03:51.180 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Validating extected message******
+22:03:51.286 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Test case TC001 passed******
+22:04:17.543 [TestNG-tests-1] INFO  TestCase.TC002_LogInTest - Starting TC002

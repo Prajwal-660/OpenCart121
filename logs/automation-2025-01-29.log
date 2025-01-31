@@ -1,0 +1,125 @@
+19:22:31.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+19:22:43.951 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:20:05.632 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\AppData\Local\Temp\testng-eclipse-1148067663\testng-customsuite.xml"
+21:20:06.110 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:20:06.115 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:20:06.119 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.131 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.133 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.135 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+21:20:06.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+21:20:06.178 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.179 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:20:06.181 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.182 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.197 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.199 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.200 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:20:06.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:20:06.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\AppData\Local\Temp\testng-eclipse-1148067663\testng-customsuite.xml
+
+21:20:06.270 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+21:20:06.732 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@30ed9c6c: 230 ms
+21:20:06.769 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1a69561c: 36 ms
+21:20:06.799 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7a56812e: 30 ms
+21:20:06.825 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5c1bd44c: 24 ms
+21:20:06.857 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e57e95e: 30 ms
+21:20:06.858 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2755d705: 0 ms
+21:20:20.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:20:21.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:20:34.938 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:24:05.639 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:24:06.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:24:19.523 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:26:19.305 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:26:20.013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:26:32.544 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:28:34.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:28:35.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:28:47.902 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:30:48.004 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:30:49.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:31:02.786 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:33:38.184 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:33:39.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:33:51.099 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:34:17.372 [main] ERROR TestCase.TC004_AddCart - ****Test Failed*****
+21:34:17.373 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:37:38.381 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:37:38.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:37:51.606 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:38:17.214 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
+21:38:17.215 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:42:42.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:42:42.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:42:51.195 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:43:05.118 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+21:43:05.119 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:45:17.071 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:45:17.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:45:26.542 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:45:44.112 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
+21:45:44.112 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:50:06.278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:50:06.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:50:16.917 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:50:41.873 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+21:50:41.873 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:56:50.440 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:56:51.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:57:03.769 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:57:28.436 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+21:57:28.437 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+21:59:02.884 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+21:59:03.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+21:59:12.355 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+21:59:41.196 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
+21:59:41.196 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+22:02:05.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+22:02:05.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+22:02:20.273 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+22:02:47.373 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****

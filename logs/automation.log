@@ -1,6 +1,36 @@
-22:03:47.992 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on my account link******
-22:03:48.839 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on Register link******
-22:03:48.842 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Providing customer details******
-22:03:51.180 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Validating extected message******
-22:03:51.286 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Test case TC001 passed******
-22:04:17.543 [TestNG-tests-1] INFO  TestCase.TC002_LogInTest - Starting TC002
+22:02:47.373 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+22:06:07.483 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+22:06:08.660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+22:06:20.163 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+22:06:45.005 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+22:06:45.005 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+11:22:54.486 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+11:22:55.133 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+11:23:17.459 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+11:23:43.103 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+11:23:43.104 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+11:27:10.752 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+11:27:11.362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+11:27:20.399 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+11:27:49.136 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
+11:27:49.136 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+11:30:47.217 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+11:30:47.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+11:30:56.405 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+11:31:20.806 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+11:31:20.806 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+11:46:18.884 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+11:46:19.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+11:46:30.824 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+11:47:00.434 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
+11:47:00.434 [main] DEBUG TestCase.TC004_AddCart - Debug logs

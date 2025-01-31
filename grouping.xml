@@ -20,6 +20,7 @@
     <classes>
       <class name="TestCase.TC001_AccountRegistration"/>
       <class name="TestCase.TC002_LogInTest"/>
+      <class name="TestCase.TC004_AddCart"/>
     </classes>
   </test> <!-- Test -->
   

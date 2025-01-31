@@ -27,6 +27,9 @@ public class AddCart extends BasePage {
 	@FindBy(xpath="//span[normalize-space()='Shopping Cart']") WebElement shoopingcart;
 	@FindBy(xpath="//h1[normalize-space()='iMac']") WebElement prodname;
 	@FindBy(xpath="//body[1]/div[2]/div[2]/div[1]/form[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/a[1]")WebElement itemadded;
+	
+	
+	
 	public void HomeIcon()
 	{
 		homeicon.click();
@@ -89,18 +92,16 @@ public class AddCart extends BasePage {
 	}
 	public boolean VerifyCart()
 	{
-		try {
 			String Pr=prodname.getText();
 			String Ir=itemadded.getText();
 		if(Pr.equalsIgnoreCase(Ir)) 
 		{
 			return true;
-		}
-		}
-		catch(Exception e)
-		{
+		}else {
 			return false;
 		}
-		return true;
+		
+		
+		
 	}
 }

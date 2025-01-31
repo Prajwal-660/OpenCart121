@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-30T11:46:19 IST" name="Suite" finished-at="2025-01-30T11:47:01 IST" duration-ms="41840">
+  <suite started-at="2025-01-31T15:07:28 IST" name="Suite" finished-at="2025-01-31T15:08:01 IST" duration-ms="32731">
     <groups>
     </groups>
-    <test started-at="2025-01-30T11:46:19 IST" name="Test" finished-at="2025-01-30T11:47:01 IST" duration-ms="41840">
+    <test started-at="2025-01-31T15:07:28 IST" name="Test" finished-at="2025-01-31T15:08:01 IST" duration-ms="32731">
       <class name="TestCase.TC004_AddCart">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC004_AddCart@a8c1f44]" started-at="2025-01-30T11:46:19 IST" name="setup" finished-at="2025-01-30T11:46:30 IST" duration-ms="11456" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC004_AddCart@3a62c01e]" started-at="2025-01-31T15:07:28 IST" name="setup" finished-at="2025-01-31T15:07:35 IST" duration-ms="6668" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,18 +23,16 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddCartItem()[pri:0, instance:TestCase.TC004_AddCart@a8c1f44]" started-at="2025-01-30T11:46:30 IST" name="AddCartItem" finished-at="2025-01-30T11:47:00 IST" duration-ms="29643" status="FAIL">
+        <test-method signature="AddCartItem()[pri:0, instance:TestCase.TC004_AddCart@3a62c01e]" started-at="2025-01-31T15:07:35 IST" name="AddCartItem" finished-at="2025-01-31T15:08:01 IST" duration-ms="25610" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[null]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+              <![CDATA[java.lang.AssertionError: null
 at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1578)
-at org.testng.Assert.assertTrue(Assert.java:57)
-at org.testng.Assert.assertTrue(Assert.java:67)
-at TestCase.TC004_AddCart.AddCartItem(TC004_AddCart.java:80)
+at org.testng.Assert.fail(Assert.java:116)
+at TestCase.TC004_AddCart.AddCartItem(TC004_AddCart.java:86)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -67,7 +65,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddCartItem -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TC004_AddCart@a8c1f44]" started-at="2025-01-30T11:47:00 IST" name="tearDown" finished-at="2025-01-30T11:47:01 IST" duration-ms="672" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase.TC004_AddCart@3a62c01e]" started-at="2025-01-31T15:08:01 IST" name="tearDown" finished-at="2025-01-31T15:08:01 IST" duration-ms="385" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

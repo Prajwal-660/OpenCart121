@@ -20,6 +20,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- TestCase.TC002_LogInTest -->
+      <class name="TestCase.TC004_AddCart">
+        <methods>
+          <include name="tearDown"/>
+          <include name="AddCartItem"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCase.TC004_AddCart -->
     </classes>
   </test> <!-- Chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->

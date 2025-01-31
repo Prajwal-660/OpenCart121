@@ -28,7 +28,7 @@ public class TC002_LogInTest extends BaseClass {
 		LogInPage lp=new LogInPage(driver);
 		lp.setemailid(pr.getProperty("email"));
 		
-		//lp.setpwd(pr.getProperty("password"));
+		lp.setpwd(pr.getProperty("password"));
 		lp.ClickLogInBtn();
 		
 		MyAccountPage MAP=new MyAccountPage(driver);

@@ -2,7 +2,6 @@ package TestCase;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import PageObjects.AddCart;
 import PageObjects.HomePage;
 import PageObjects.LogInPage;
@@ -11,7 +10,7 @@ import Testbase.BaseClass;
 
 public class TC004_AddCart extends BaseClass{
 
-	@Test
+	@Test(groups={"Sanity","Master"})
 	public void AddCartItem()
 	{
 		try {

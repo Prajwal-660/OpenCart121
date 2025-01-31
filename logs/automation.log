@@ -34,3 +34,26 @@
 11:46:30.824 [main] INFO  TestCase.TC004_AddCart - Starting TC004
 11:47:00.434 [main] ERROR TestCase.TC004_AddCart - ****Test veryfy cart details Failed*****
 11:47:00.434 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+14:57:09.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+14:57:09.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+14:57:20.665 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+14:57:45.968 [main] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+14:57:45.968 [main] DEBUG TestCase.TC004_AddCart - Debug logs
+15:07:28.297 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml"
+15:07:28.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\I6884\eclipse-workspace\OpenCart121\testng.xml
+
+15:07:35.423 [main] INFO  TestCase.TC004_AddCart - Starting TC004
+15:14:16.119 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\I6884\eclipse-workspace\OpenCart121\grouping.xml"
+15:14:22.955 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Starting TC001 AccountRegistrationTest******
+15:14:23.273 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on my account link******
+15:14:23.917 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Clicked on Register link******
+15:14:23.921 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Providing customer details******
+15:14:25.422 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Validating extected message******
+15:14:25.481 [TestNG-tests-1] INFO  TestCase.TC001_AccountRegistration - ***********Test case TC001 passed******
+15:14:31.245 [TestNG-tests-1] INFO  TestCase.TC002_LogInTest - Starting TC002
+15:14:48.277 [TestNG-tests-1] INFO  TestCase.TC004_AddCart - Starting TC004
+15:15:10.835 [TestNG-tests-1] ERROR TestCase.TC004_AddCart - ****Test success allert Failed*****
+15:15:10.835 [TestNG-tests-1] DEBUG TestCase.TC004_AddCart - Debug logs
